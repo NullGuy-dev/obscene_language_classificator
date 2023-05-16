@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Programming\\PO\\Python\\swear-ai\\model.tflearn"
+all_model_checkpoint_paths: "D:\\Programming\\PO\\Python\\swear-ai\\model.tflearn"
