@@ -1,2 +1,2 @@
-# si_ai
-si_ai - это нейронная сеть для поиска матов и оскорблений в тексте.
+# obscene_language_classificator
+obscene_language_classificator - is a neural network for obscene language classification
